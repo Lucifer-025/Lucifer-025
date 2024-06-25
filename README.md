@@ -1,7 +1,11 @@
 [![An image of @lucifer025's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/lucifer025)](https://holopin.io/@lucifer025)
 <h1 align="center">Hi 👋, I am Shivansh Srivastava</h1>
 <h3 align="center">A passionate web developer from India</h3>
-
+<div align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHpuMmR3dGJ0aXpmbzY1amkxaHhrNDJ1cDY4dTI3Z2gwNW5qdnM1biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.webp" width="200"/>
+  <div/>
+    <p align="left"> <img src="https://komarev.com/ghpvc/?username=lucifer0508&label=Profile%20views&color=0e75b6&style=flat" alt="lucifer0508" /> </p>
+    <h2 align="center">🚀 About Me</h2>
 <!--
 **Lucifer-025/Lucifer-025** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
