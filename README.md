@@ -1,4 +1,4 @@
-[![An image of @lucifer025's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/lucifer025)](https://holopin.io/@lucifer025)
+<!--[![An image of @lucifer025's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/lucifer025)](https://holopin.io/@lucifer025)-->
 <h1 align="center">Hi 👋, I am Shivansh Srivastava</h1>
 <h3 align="center">A passionate web developer from India</h3>
 <div align="center">
@@ -7,9 +7,7 @@
     <p align="left"> <img src="https://komarev.com/ghpvc/?username=lucifer0508&label=Profile%20views&color=0e75b6&style=flat" alt="lucifer0508" /> </p>
     <h2 align="center">🚀 About Me</h2>
 <!--
-**Lucifer-025/Lucifer-025** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+**Lucifer-025/Lucifer-025** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
